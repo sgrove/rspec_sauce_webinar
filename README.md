@@ -2,6 +2,8 @@ Webinar repo: RSpec tests cross-browser with Sauce Labs
 ============================================================
 Follow along with the webinar video and try the examples as you watch.
 
+For an unmodified example, please see [2][RSpec Sauce proper]
+
 Installation
 ------------
 
@@ -42,4 +44,5 @@ License
 Released under MIT license
 
   [1]: http://saucelabs.com/
-        
+  [2]: http://github.com/sgrove/rspec_sauce
+  
