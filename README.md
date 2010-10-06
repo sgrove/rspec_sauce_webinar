@@ -2,7 +2,7 @@ Webinar repo: RSpec tests cross-browser with Sauce Labs
 ============================================================
 Follow along with the webinar video and try the examples as you watch.
 
-For an unmodified example, please see [2][RSpec Sauce proper]
+For an unmodified example, please see [RSpec Sauce proper][2]
 
 Installation
 ------------
