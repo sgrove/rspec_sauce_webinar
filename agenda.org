@@ -1,0 +1,20 @@
+* RSpec Sauce
+** Any questions? Type into gotomeeting panel
+** Quick intro: rspec, selenium, sauce labs
+** What is rspec?
+*** Example first test
+*** formatters
+** What is selenium?
+*** Example selenium script
+** Combine the two
+*** Example rspec + selenium test
+*** Two tests
+** What is Sauce Labs?
+*** Example rspec + sauce labs
+** Best practice
+*** before(:each)
+*** Named tests
+*** Credential storage
+** Cross browser testing
+** Preview: Secret
+** Questions!
